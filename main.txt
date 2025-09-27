@@ -2,8 +2,8 @@
 
 line 1 edited
 line 2 edited
-line 3 edited
+line 3 edited ()changed
 line 4 bigo
 line 5 edited
-line 6 edited
 line 7 edited
+line 8 edited
